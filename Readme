@@ -1,0 +1,3 @@
+XGBoost is a powerful machine learning algorithm used for heart disease prediction. 
+It excels at handling complex datasets and can be used for both classification (predicting if a patient has heart disease) and regression (predicting the risk of heart disease) tasks. 
+XGBoost's ability to optimize model parameters and its capacity to handle various data types make it a popular choice for building accurate and reliable heart disease prediction models
